@@ -16,8 +16,3 @@ compatibility_date = "2025-02-13"
 # binding = "DB"
 # database_name = "my-database"
 # database_id = ""
-
-[[d1_databases]]
-binding = "DB"
-database_name = "cfw-hono-drizzle-d1"
-database_id = "9963eed4-5326-40ed-9149-1a5cd0528c02"
